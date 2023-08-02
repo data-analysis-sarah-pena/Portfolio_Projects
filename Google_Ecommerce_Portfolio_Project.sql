@@ -146,14 +146,12 @@ u.first_name,
 u.last_name,
 u.email,
 p.category
-
 FROM
 `bigquery-public-data.thelook_ecommerce.users` AS u
 JOIN
 `bigquery-public-data.thelook_ecommerce.products` AS p
 ON
 u.id = p.id
-
 GROUP BY
 1,
 2,
@@ -190,10 +188,12 @@ In summary, knowing the customers' gender and purchase category is crucial for i
 
 --What is each customer’s total revenue?
 
-SELECT u.id AS user_id, u.first_name, u.last_name, u.email, i.sale_price AS customer_revenue,
+SELECT u.id AS user_id, 
+u.first_name, 
+u.last_name, 
+u.email, 
+i.sale_price AS customer_revenue,
 COUNT (num_of_item) AS total_conversions,
-
-
 FROM
 `bigquery-public-data.thelook_ecommerce.users` AS u
 JOIN
@@ -204,17 +204,14 @@ JOIN
 `bigquery-public-data.thelook_ecommerce.order_items` AS i
 ON
 i.id = u.id
-
-
 GROUP BY
 1,
 2,
 3,
 4,
 5
-
-
-ORDER BY (sale_price) DESC
+ORDER BY 
+(sale_price) DESC
 
 /*
 Knowing each customer's total revenue is essential for solving a business problem because it provides critical information about the customer's value to the company. Here's why it is important:
