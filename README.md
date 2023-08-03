@@ -21,7 +21,8 @@ My CV in [pdf](https://github.com/data-analysis-sarah-pena/SQL/blob/main/data_an
 - [Portfolio Projects](https://github.com/data-analysis-sarah-pena/SQL)
   - [Google Ecommerce Portfolio Project](https://github.com/data-analysis-sarah-pena/SQL/blob/main/Google_Ecommerce_Portfolio_Project.sql)
   - [Marketing Strategy Projects](https://github.com/data-analysis-sarah-pena/SQL)
-    - [B2B Marketing Strategy](insert link here)  
+    - [B2B Marketing Strategy](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Mogul_B2B_Email_Strategy.pdf)
+
 - [Education](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#education)
 - [Certificates](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#certificates)
 - [Contact](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#contacts)
@@ -39,6 +40,19 @@ Cross-channel Marketing Campaign Optimization Projects
 **Technology:** SQL Server
 
 **Results:** Based on the experiment's findings, identifying the best-selling product would lead to revenue optimization by allowing businesses to focus their efforts on promoting and optimizing sales for that particular item, maximizing revenue generation. It would provide valuable insights into consumer preferences, tailor marketing efforts to highlight the most popular product, and attract more potential customers. Recognizing the top 10 customers by average order value (AOV) results in the potential to leverage high value customers for tailored targeted promotions, personalized offers, and incentives, increase the average transaction value, and reduce the likelihood of them switching to competitors. Targeting the top 100 customers with the highest lifetime value (LTV) would yield improvement in customer retention rates and referral opportunities. Segmenting customers by gender and purchase category would lead to increased conversion rates for targeted marketing campaigns, increasing the chances of upselling and cross-selling. Finally, analyzing total customer revenue customize promotions, offers, and communications based on the customer's spending behavior, increasing the likelihood of conversion and customer loyalty. These measures conclusively demonstrate how data-driven insights would foster company growth, amplified revenue, and optimize overall business performance.
+
+### B2B Marketing Strategy
+**PDF:** [`Mogul_B2B_Email_Strategy.pdf`](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Mogul_B2B_Email_Strategy.pdf)
+
+**Description:** Mogul, a leading SaaS company specializing in global diversity recruitment, approached me to devise a strategic B2B Marketing Campaign aimed at generating leads, creating segmented email lists for automated flows, and establishing key performance indicators (KPIs) to measure the campaign's success. In response, I crafted a comprehensive B2B email marketing strategy that delivered exceptional results. Through the implementation of metadata-based audience segmentation, which considered factors such as webpage clicks, browsing behavior, order history, and location, I optimized the email segments, campaigns and automated flows.   
+
+**Skills:** segmentation, automation, meta-data extrapolation, data exploration, data cleaning, data management, data analysis
+
+**Technology:** Hubspot
+
+**Results:** We achieved impressive open rates, with engagement soaring to an average of 40% among highly targeted segments. Additionally, the click-through rates reached a remarkable 3%, while lead conversions surged to an outstanding 1.8%.
+
+This data-driven marketing approach not only fostered a 20% increase in website traffic but also yielded a notable 3% improvement in conversion rates within a span of six months. These remarkable outcomes demonstrate the effectiveness of this carefully structured B2B Marketing Campaign and its ability to drive substantial business growth.
 
 ## Education
 University of California, Santa Cruz - Bachelor of Science, Biology, 2013-2018
