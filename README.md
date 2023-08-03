@@ -1,6 +1,6 @@
 # Sarah Pena - Data Analyst
 ## About
-/* Hi, I'm Sarah! I am a results-driven individual with a diverse background in ecommerce, sales, and marketing, combined with a solid educational foundation in a Bachelor of Science in Biology. My journey has been shaped by a strong curiosity for understanding data-driven insights, and I am excited to transition my skills and knowledge into the dynamic field of data analysis.
+Hi, I'm Sarah! I am a results-driven individual with a diverse background in ecommerce, sales, and marketing, combined with a solid educational foundation in a Bachelor of Science in Biology. My journey has been shaped by a strong curiosity for understanding data-driven insights, and I am excited to transition my skills and knowledge into the dynamic field of data analysis.
 
 Throughout my career in ecommerce and sales, I have consistently sought opportunities to leverage data to drive growth, optimize strategies, and enhance customer experiences. My experience in managing online sales platforms and executing successful marketing campaigns has honed my ability to collect and analyze data, providing valuable perspectives on consumer behavior, market trends, and product performance.
 
@@ -15,14 +15,10 @@ If you are seeking a motivated, adaptable, and driven individual who can bridge 
 
 My CV in [pdf](https://github.com/data-analysis-sarah-pena/SQL/blob/main/data_analyst_sarah_pena_resume.pdf)
 
-<a href="https://github.com/data-analysis-sarah-pena/SQL/blob/main/data_analyst_sarah_pena_resume.pdf">pdf</a>.
-*/
-
 ## Table of Contents
 
--[About](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#About)
-- [Portfolio Projects]
--SQL
+- [About Me](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#About)
+- [Portfolio Projects](https://github.com/data-analysis-sarah-pena/SQL)
   - [Google Ecommerce Portfolio Project](https://github.com/data-analysis-sarah-pena/SQL/blob/main/Google_Ecommerce_Portfolio_Project.sql)
 
 - [Certificates](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#certificates)
