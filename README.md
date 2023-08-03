@@ -20,7 +20,9 @@ My CV in [pdf](https://github.com/data-analysis-sarah-pena/SQL/blob/main/data_an
 - [About Me](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#About)
 - [Portfolio Projects](https://github.com/data-analysis-sarah-pena/SQL)
   - [Google Ecommerce Portfolio Project](https://github.com/data-analysis-sarah-pena/SQL/blob/main/Google_Ecommerce_Portfolio_Project.sql)
-
+  - [Marketing Strategy Projects](https://github.com/data-analysis-sarah-pena/SQL)
+    - [B2B Marketing Strategy](insert link here)  
+- [Education](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#education)
 - [Certificates](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#certificates)
 - [Contact](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#contacts)
 
