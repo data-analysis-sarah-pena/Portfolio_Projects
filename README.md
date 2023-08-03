@@ -13,7 +13,7 @@ I am enthusiastic about the potential to work collaboratively with teams, solve 
 If you are seeking a motivated, adaptable, and driven individual who can bridge the gap between ecommerce, sales, marketing, and data analysis, I would love to connect and discuss how my unique background can add value to your organization. Let's explore the possibilities together!
 
 
-My CV in [pdf](https://github.com/data-analysis-sarah-pena/SQL/blob/main/data_analyst_sarah_pena_resume.pdf)
+My CV in [pdf](https://github.com/data-analysis-sarah-pena/SQL/blob/main/data_analyst_sarah_pena_resume.pdf).
 
 ## Table of Contents
 
