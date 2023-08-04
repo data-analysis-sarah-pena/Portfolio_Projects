@@ -50,7 +50,7 @@ Cross-channel Marketing Campaign Optimization Projects
 
 **Technology:** Powerpoint, Hubspot CRM
 
-**Results:** We achieved impressive open rates, with engagement soaring to an average of 40% among highly targeted segments. Additionally, the click-through rates reached a remarkable 3%, while lead conversions surged to an outstanding 1.8%. This data-driven marketing approach not only fostered a 20% increase in website traffic but also yielded a notable 3% improvement in conversion rates within a span of six months. These remarkable outcomes demonstrate the effectiveness of this carefully structured B2B Marketing Campaign and its ability to drive substantial business growth. (Results not shown because of sensitive private company data.)
+**Results:** We achieved impressive open rates, with engagement soaring to an average of 40% among highly targeted segments. Additionally, the click-through rates reached a remarkable 3%, while lead conversions surged to an outstanding 1.8%. This data-driven marketing approach not only fostered a 20% increase in website traffic but also yielded a notable 3% improvement in conversion rates within a span of six months. These remarkable outcomes demonstrate the effectiveness of this carefully structured B2B Marketing Campaign and its ability to drive substantial business growth. (Results not shown because of sensitive and private company data.)
 
 ## Education
 University of California, Santa Cruz - Bachelor of Science, Biology, 2013-2018
