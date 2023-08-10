@@ -22,6 +22,7 @@ My CV in [pdf](https://github.com/data-analysis-sarah-pena/SQL/blob/main/data_an
   - [Google Ecommerce Portfolio Project](https://github.com/data-analysis-sarah-pena/SQL/blob/main/Google_Ecommerce_Portfolio_Project.sql)
   - [Marketing Strategy Projects](https://github.com/data-analysis-sarah-pena/SQL)
     - [B2B Marketing Strategy](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Mogul_B2B_Email_Strategy.pdf)
+  - [Email Marketing Samples](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples)
 
 - [Education](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#education)
 - [Certificates](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#certificates)
@@ -51,6 +52,31 @@ Cross-channel Marketing Campaign Optimization Projects
 **Technology:** Powerpoint, Hubspot CRM
 
 **Results:** We achieved impressive open rates, with engagement soaring to an average of 40% among highly targeted segments. Additionally, the click-through rates reached a remarkable 3%, while lead conversions surged to an outstanding 1.8%. This data-driven marketing approach not only fostered a 20% increase in website traffic but also yielded a notable 3% improvement in conversion rates within a span of six months. These remarkable outcomes demonstrate the effectiveness of this carefully structured B2B Marketing Campaign and its ability to drive substantial business growth. (Results not shown because of sensitive and private company data.)
+
+### Email Marketing Samples
+**Document:** [`2020.01_Fully_New_Years_Sale.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2020.01_Fully_New_Years_Sale.jpeg),[`2020.05_Fully_Email_Jarvis_Givaway.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2020.05_Fully_Email_Jarvis_Givaway.jpeg), [`2020.05_Fully_Product_Survey.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2020.05_Fully_Product_Survey.jpeg), [`2020.09_Fully_Back_To_Work.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2020.09_Fully_Back_To_Work.jpeg), [`2021.10_Fully_Cyber_November.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2021.10_Fully_Cyber_November.jpeg),  [`2021.10_Rumpl_Wishlist_Klaviyo.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2021.10_Rumpl_Wishlist_Klaviyo.jpeg)   
+
+**Description:** Explore a diverse range of email campaigns designed to engage, inspire, and convert.
+
+The Free Giveaway email taps into the psychology of reciprocity and the joy of receiving. By offering something for free, we create a sense of goodwill and encourage recipients to engage with the email, social media, website and potentially convert into paying customers.
+
+In the New Year Sale email, we leverage a visually appealing layout combined with compelling copy to emphasize exclusive discounts. This strategy is crafted to catch the recipient's attention and prompt them to explore the offerings, ultimately leading to increased sales.
+
+The Product Survey email is strategically constructed to directly involve customers in shaping our future offerings. By demonstrating that we value their opinions, we foster a sense of ownership and loyalty, prompting them to participate and provide valuable feedback.
+
+With the discount code email, we create a sense of urgency and exclusivity. By providing a unique code for savings, we entice recipients to take immediate action, as they want to benefit from the limited-time offer.
+
+Our Cyber Week email employs dynamic visuals and concise messaging to capitalize on the urgency of time-limited deals. By creating a sense of FOMO (fear of missing out), we encourage recipients to seize the opportunity and make a purchase.
+
+Finally, the Wishlist email acknowledges the importance of customer convenience. By allowing recipients to curate their personalized wishlist, we empower them to keep track of desired items and stay engaged with the brand.
+
+Experience firsthand the intricacies of these email marketing strategies and witness their effectiveness in driving engagement and conversions.
+
+**Skills:** segmentation, automation, meta-data extrapolation, data exploration, data cleaning, data management, data analysis
+
+**Technology:** Klaviyo, Google analytics
+
+**Results:** Through these campaigns, we achieved remarkable outcomes in strategic email marketing. By crafting compelling visuals and persuasive copy, we drove a surge in website traffic and a substantial increase in conversions, resulting in a highly successful sales event. Our offer of a free incentive cultivated unprecedented engagement, drawing in a significant number of new subscribers and fostering a deeper sense of brand loyalty among existing customers. Our proactive approach to gathering customer insights led to a wealth of valuable feedback, enabling us to refine our product offerings and enhance customer satisfaction. The employment of time-sensitive discount codes proved to be an irresistible incentive, generating an impressive spike in sales and establishing a sense of urgency among our customer base. Leveraging the hype of Cyber Week, we witnessed an extraordinary upswing in both website visits and conversions, achieving remarkable sales figures that far exceeded regular periods. In each campaign, our strategic ingenuity combined with data-driven decision-making culminated in outstanding results, showcasing our expertise in driving engagement, conversions, and overall brand success through email marketing.
 
 ## Education
 University of California, Santa Cruz - Bachelor of Science, Biology, 2013-2018
