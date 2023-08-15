@@ -18,11 +18,12 @@ My CV in [pdf](https://github.com/data-analysis-sarah-pena/SQL/blob/main/data_an
 ## Table of Contents
 
 - [About Me](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#About)
-- [Portfolio Projects](https://github.com/data-analysis-sarah-pena/SQL)
+- [Portfolio Projects]
   - [Google Ecommerce Portfolio Project](https://github.com/data-analysis-sarah-pena/SQL/blob/main/Google_Ecommerce_Portfolio_Project.sql)
-  - [Marketing Strategy Projects](https://github.com/data-analysis-sarah-pena/SQL)
+  - [Sales Dashboard Portfolio Project](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Sales_Dashboard_Portfolio_Project.xlsm)
+  - [Marketing Strategy Projects]
     - [B2B Marketing Strategy](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Mogul_B2B_Email_Strategy.pdf)
-  - [Email Marketing Samples](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples)
+    - [Email Marketing Samples](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples)
 
 - [Education](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#education)
 - [Certificates](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#certificates)
@@ -42,6 +43,19 @@ Cross-channel Marketing Campaign Optimization Projects
 
 **Results:** Based on the experiment's findings, identifying the best-selling product would lead to revenue optimization by allowing businesses to focus their efforts on promoting and optimizing sales for that particular item, maximizing revenue generation. It would provide valuable insights into consumer preferences, tailor marketing efforts to highlight the most popular product, and attract more potential customers. Recognizing the top 10 customers by average order value (AOV) results in the potential to leverage high value customers for tailored targeted promotions, personalized offers, and incentives, increase the average transaction value, and reduce the likelihood of them switching to competitors. Targeting the top 100 customers with the highest lifetime value (LTV) would yield improvement in customer retention rates and referral opportunities. Segmenting customers by gender and purchase category would lead to increased conversion rates for targeted marketing campaigns, increasing the chances of upselling and cross-selling. Finally, analyzing total customer revenue customize promotions, offers, and communications based on the customer's spending behavior, increasing the likelihood of conversion and customer loyalty. These measures conclusively demonstrate how data-driven insights would foster company growth, amplified revenue, and optimize overall business performance.
 
+### Sales Dashboard and Analysis
+**Document:** [Sales Dashboard Portfolio Project](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Sales_Dashboard_Portfolio_Project.xlsm)
+
+**Description:** A comprehensive Sales Dashboard that can be used as powerful tool to provide actionable insights for your business. Dynamic charts and visualizations can effortlessly track key performance metrics. Monitor "Sales by Year and Region" to grasp geographical trends, "Profit by Segment" to optimize customer targeting, and "Sales by Segment and Category" for a detailed product analysis. Dive deeper into regional data with "Sales and Profit by States," enabling localized strategies. Uncover logistical efficiency through "Quantity Sold by Sub-Category and Ship Mode," and fine-tune your inventory with "Sub-Category and Profit" data. Elevate your decision-making with a Sales Dashboard and maximize your business's growth potential.  
+
+**Skills:** data aggregation, pivot tables, data visualization, chart customization, data analysis
+
+**Technology:** Excel
+
+**Results:** A thorough analysis of the sales dashboard reveals valuable insights that can drive strategic decisions and optimize business performance. The "Sales by Year and Region" chart highlights growth trends across different regions to help identify high-potential markets and allocate resources effectively. The "Profit by Segment" chart enables focus on the most profitable customer segments, tailoring marketing efforts and services to their specific needs. The "Sales by Segment and Category" chart uncovers product preferences within each segment, aiding in inventory management and marketing strategies. "Sales by States" and "Profit by States" charts pinpoint geographical areas of strength and weakness, aiding in targeted expansion and operational improvements. The "Quantity Sold by Sub-Category and Ship Mode" chart offers insights into shipping efficiency, while "Sub-Category and Profit" helps streamline the product portfolio for maximum profitability. Through these visualizations, our sales dashboard empowers data-driven decision-making across the organization, enhancing growth and customer satisfaction.
+
+**Dataset:** Dataset is from [here](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
+
 ### B2B Marketing Strategy
 **Document:** [`Mogul_B2B_Email_Strategy.pdf`](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Mogul_B2B_Email_Strategy.pdf)
 
@@ -54,7 +68,10 @@ Cross-channel Marketing Campaign Optimization Projects
 **Results:** We achieved impressive open rates, with engagement soaring to an average of 40% among highly targeted segments. Additionally, the click-through rates reached a remarkable 3%, while lead conversions surged to an outstanding 1.8%. This data-driven marketing approach not only fostered a 20% increase in website traffic but also yielded a notable 3% improvement in conversion rates within a span of six months. These remarkable outcomes demonstrate the effectiveness of this carefully structured B2B Marketing Campaign and its ability to drive substantial business growth. (Results not shown because of sensitive and private company data.)
 
 ### Email Marketing Samples
-**Document:** [`2020.01_Fully_New_Years_Sale.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2020.01_Fully_New_Years_Sale.jpeg),[`2020.05_Fully_Email_Jarvis_Givaway.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2020.05_Fully_Email_Jarvis_Givaway.jpeg), [`2020.05_Fully_Product_Survey.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2020.05_Fully_Product_Survey.jpeg), [`2020.09_Fully_Back_To_Work.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2020.09_Fully_Back_To_Work.jpeg), [`2021.10_Fully_Cyber_November.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2021.10_Fully_Cyber_November.jpeg),  [`2021.10_Rumpl_Wishlist_Klaviyo.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2021.10_Rumpl_Wishlist_Klaviyo.jpeg)   
+**Document:** [`2020.05_Fully_Product_Survey.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2020.05_Fully_Product_Survey.jpeg), [`2020.09_Fully_Back_To_Work.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2020.09_Fully_Back_To_Work.jpeg),
+[`2020.12_Fully_Email_Jarvis_Givaway.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2020.12_Fully_Email_Jarvis_Givaway.jpeg),
+[`2021.01_Fully_New_Years_Sale.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2021.01_Fully_New_Years_Sale.jpeg),
+ [`2021.10_Fully_Cyber_November.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2021.10_Fully_Cyber_November.jpeg),  [`2021.10_Rumpl_Wishlist_Klaviyo.jpeg`](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples/blob/main/2021.10_Rumpl_Wishlist_Klaviyo.jpeg)   
 
 **Description:** Explore a diverse range of email campaigns designed to engage, inspire, and convert.
 
@@ -77,6 +94,7 @@ Experience firsthand the intricacies of these email marketing strategies and wit
 **Technology:** Klaviyo, Google analytics
 
 **Results:** Through these campaigns, we achieved remarkable outcomes in strategic email marketing. By crafting compelling visuals and persuasive copy, we drove a surge in website traffic and a substantial increase in conversions, resulting in a highly successful sales event. Our offer of a free incentive cultivated unprecedented engagement, drawing in a significant number of new subscribers and fostering a deeper sense of brand loyalty among existing customers. Our proactive approach to gathering customer insights led to a wealth of valuable feedback, enabling us to refine our product offerings and enhance customer satisfaction. The employment of time-sensitive discount codes proved to be an irresistible incentive, generating an impressive spike in sales and establishing a sense of urgency among our customer base. Leveraging the hype of Cyber Week, we witnessed an extraordinary upswing in both website visits and conversions, achieving remarkable sales figures that far exceeded regular periods. In each campaign, our strategic ingenuity combined with data-driven decision-making culminated in outstanding results, showcasing our expertise in driving engagement, conversions, and overall brand success through email marketing.
+
 
 ## Education
 University of California, Santa Cruz - Bachelor of Science, Biology, 2013-2018
