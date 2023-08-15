@@ -16,18 +16,18 @@ If you are seeking a motivated, adaptable, and driven individual who can bridge 
 My CV in [pdf](https://github.com/data-analysis-sarah-pena/SQL/blob/main/data_analyst_sarah_pena_resume.pdf).
 
 ## Table of Contents
-
-#### [About Me](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#About)
+#### [About me](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/README.md#About)
 #### Portfolio Projects
 - [Google Ecommerce Portfolio Project](https://github.com/data-analysis-sarah-pena/SQL/blob/main/Google_Ecommerce_Portfolio_Project.sql)
 - [Sales Dashboard Portfolio Project](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Sales_Dashboard_Portfolio_Project.xlsm)
+
 #### Marketing Strategy
 - [B2B Marketing Strategy](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Mogul_B2B_Email_Strategy.pdf)
 - [Email Marketing Samples](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples)
 
-[Education](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#education)
-[Certificates](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#certificates)
-[Contact](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#contacts)
+#### [Education](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#education)
+#### [Certificates](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#certificates)
+#### [Contact](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#contacts)
 
 ## Portfolio Projects
 Cross-channel Marketing Campaign Optimization Projects
