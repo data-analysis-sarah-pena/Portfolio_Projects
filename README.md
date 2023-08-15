@@ -17,13 +17,13 @@ My CV in [pdf](https://github.com/data-analysis-sarah-pena/SQL/blob/main/data_an
 
 ## Table of Contents
 
-- [About Me](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#About)
-- [Portfolio Projects]
-  - [Google Ecommerce Portfolio Project](https://github.com/data-analysis-sarah-pena/SQL/blob/main/Google_Ecommerce_Portfolio_Project.sql)
-  - [Sales Dashboard Portfolio Project](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Sales_Dashboard_Portfolio_Project.xlsm)
-  - [Marketing Strategy Projects]
-    - [B2B Marketing Strategy](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Mogul_B2B_Email_Strategy.pdf)
-    - [Email Marketing Samples](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples)
+[About Me](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#About)
+Portfolio Projects
+- [Google Ecommerce Portfolio Project](https://github.com/data-analysis-sarah-pena/SQL/blob/main/Google_Ecommerce_Portfolio_Project.sql)
+- [Sales Dashboard Portfolio Project](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Sales_Dashboard_Portfolio_Project.xlsm)
+Marketing Strategy Projects
+- [B2B Marketing Strategy](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Mogul_B2B_Email_Strategy.pdf)
+- [Email Marketing Samples](https://github.com/data-analysis-sarah-pena/Email_Marketing_Samples)
 
 - [Education](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#education)
 - [Certificates](https://github.com/data-analysis-sarah-pena/SQL/blob/main/README.md#certificates)
@@ -44,7 +44,7 @@ Cross-channel Marketing Campaign Optimization Projects
 **Results:** Based on the experiment's findings, identifying the best-selling product would lead to revenue optimization by allowing businesses to focus their efforts on promoting and optimizing sales for that particular item, maximizing revenue generation. It would provide valuable insights into consumer preferences, tailor marketing efforts to highlight the most popular product, and attract more potential customers. Recognizing the top 10 customers by average order value (AOV) results in the potential to leverage high value customers for tailored targeted promotions, personalized offers, and incentives, increase the average transaction value, and reduce the likelihood of them switching to competitors. Targeting the top 100 customers with the highest lifetime value (LTV) would yield improvement in customer retention rates and referral opportunities. Segmenting customers by gender and purchase category would lead to increased conversion rates for targeted marketing campaigns, increasing the chances of upselling and cross-selling. Finally, analyzing total customer revenue customize promotions, offers, and communications based on the customer's spending behavior, increasing the likelihood of conversion and customer loyalty. These measures conclusively demonstrate how data-driven insights would foster company growth, amplified revenue, and optimize overall business performance.
 
 ### Sales Dashboard and Analysis
-**Document:** [Sales Dashboard Portfolio Project](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Sales_Dashboard_Portfolio_Project.xlsm)
+**Document:** [`Sales_Dashboard_Portfolio_Project.xlsm`](https://github.com/data-analysis-sarah-pena/Portfolio_Projects/blob/main/Sales_Dashboard_Portfolio_Project.xlsm)
 
 **Description:** A comprehensive Sales Dashboard that can be used as powerful tool to provide actionable insights for your business. Dynamic charts and visualizations can effortlessly track key performance metrics. Monitor "Sales by Year and Region" to grasp geographical trends, "Profit by Segment" to optimize customer targeting, and "Sales by Segment and Category" for a detailed product analysis. Dive deeper into regional data with "Sales and Profit by States," enabling localized strategies. Uncover logistical efficiency through "Quantity Sold by Sub-Category and Ship Mode," and fine-tune your inventory with "Sub-Category and Profit" data. Elevate your decision-making with a Sales Dashboard and maximize your business's growth potential.  
 
