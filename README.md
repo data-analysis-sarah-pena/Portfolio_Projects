@@ -1,4 +1,4 @@
-# Sarah Pena - Data Analyst
+# Sarah Pena
 ## About
 Hi, I'm Sarah! I am a results-driven individual with a diverse background in ecommerce, sales, and marketing, combined with a solid educational foundation in a Bachelor of Science in Biology. My journey has been shaped by a strong curiosity for understanding data-driven insights, and I am excited to transition my skills and knowledge into the dynamic field of data analysis.
 
